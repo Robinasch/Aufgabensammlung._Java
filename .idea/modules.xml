@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Addierer/01-Addierer.iml" filepath="$PROJECT_DIR$/01-Addierer/01-Addierer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 Monat berechnen/02.iml" filepath="$PROJECT_DIR$/02 Monat berechnen/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Aufgabe/03Aufgabe.iml" filepath="$PROJECT_DIR$/03Aufgabe/03Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Aufgabe/04Aufgabe.iml" filepath="$PROJECT_DIR$/04Aufgabe/04Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Aufgabe/05Aufgabe.iml" filepath="$PROJECT_DIR$/05Aufgabe/05Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Aufgabe/06Aufgabe.iml" filepath="$PROJECT_DIR$/06Aufgabe/06Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07Aufgabe/07Aufgabe.iml" filepath="$PROJECT_DIR$/07Aufgabe/07Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08Aufgaben/08Aufgaben.iml" filepath="$PROJECT_DIR$/08Aufgaben/08Aufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09Aufgabe/09Aufgabe.iml" filepath="$PROJECT_DIR$/09Aufgabe/09Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10Aufgabe/10Aufgabe.iml" filepath="$PROJECT_DIR$/10Aufgabe/10Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11Aufgabe/11Aufgabe.iml" filepath="$PROJECT_DIR$/11Aufgabe/11Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12Aufgabe/12Aufgabe.iml" filepath="$PROJECT_DIR$/12Aufgabe/12Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13Aufgabe/13Aufgabe.iml" filepath="$PROJECT_DIR$/13Aufgabe/13Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14Aufgabe/14Aufgabe.iml" filepath="$PROJECT_DIR$/14Aufgabe/14Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15Aufgabe/15Aufgabe.iml" filepath="$PROJECT_DIR$/15Aufgabe/15Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16Aufgabe/16Aufgabe.iml" filepath="$PROJECT_DIR$/16Aufgabe/16Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17Aufgabe/17Aufgabe.iml" filepath="$PROJECT_DIR$/17Aufgabe/17Aufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+    </modules>
+  </component>
+</project>
